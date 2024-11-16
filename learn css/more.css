@@ -6,9 +6,13 @@
 
 h1{color: rgb(255, 0, 0);}
 
-html , body{
+html ,
+ body{
         width: 100% ;
         height: 100% ;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
 
 }
 
@@ -16,5 +20,21 @@ body{
 
     background-color: gold;
 }
-/* div { background-color: rgb(64, 186, 231);width: 50%; height: 50%; } */
+
+div{
+        width: 30%;
+        height: 30%;
+        font-size: larger ;
+        font-family: fantasy;
+
+
+}
+#box1{
+        background-color: lightgray ;
+
+}
+
+#box2{
+        background-color: rgb(255, 34, 229) ;
+}
 
