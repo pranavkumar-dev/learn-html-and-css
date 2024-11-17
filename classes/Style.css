@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html , body {
+    height: 100%;
+    width: 100%;
+}
+.color {
+    color: aquamarine;
+    background-color: crimson;
+    text-align: center;
+    font-weight: bold;
+}
+#billion
+ {
+color: chocolate;
+font-weight: bolder;
+
+}
+
+

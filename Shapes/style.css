@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+html , body {
+        height: 100%;
+        width: 100%;
+        /* display: flex; */
+        /* align-items: center; */
+}
+main{
+    display: flex;
+
+
+}
+div{
+    height: 200px;
+    width: 200px;
+}
+#box1{
+    background-color: aqua;
+
+}
+#box2 {
+    background-color: burlywood;
+
+}
+#box3 {
+    background-color: chartreuse;
+
+}
